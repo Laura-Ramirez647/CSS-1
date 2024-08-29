@@ -1,0 +1,59 @@
+.begin{
+    height: 340px;
+    border: 1px solid black;
+    background-color: beige;
+    padding: 30px 100px;
+    max-width: 700px;
+    margin: 0 auto;
+}
+.lale{
+   font-size: normal; 
+   text-align:center;
+   font-display:unset;
+   margin-top: 10%;
+}
+.datee{
+    font-size: normal; 
+    text-align:unset;
+    font-display:unset;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    flex-direction: row;
+    display: flexs;
+}
+
+.lala{
+    height: 300px;
+    border: 1px solid black;
+    background-color: beige;
+    padding: 30px 100px;
+    max-width: 700px;
+    margin: 0 auto;
+}
+.one{
+    font-size: normal; 
+    text-align:unset;
+    font-display:unset;
+    margin-top: 8%;
+    margin-bottom: 23%;
+    flex-direction: row;
+    display: flexs;
+}
+.lili{
+    text-align: center;
+}
+.lola{
+    text-align: center;
+}
+div{
+    text-align: left;
+}
+input{
+    margin-right: 110px;
+    margin-bottom: 50px;
+    background-color: gainsboro;
+    border: 1px solid black;
+}
+label{
+    font-size: small;
+}
